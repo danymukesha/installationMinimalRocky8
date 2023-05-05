@@ -9,7 +9,7 @@ https://www.virtualbox.org/wiki/Downloads VBoxManage --version
 
 3. Download the most common SSH client PuTTY.exe from www.putty.org (do not need installation)
 4. Download to your computer Rocky Minimal .ISO image at
-https://site.ada.edu.az/~aadamov/sources/downloads/ or http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1708.iso
+https://rockylinux.org/download/ or https://download.rockylinux.org/pub/rocky/8/isos/x86_64/Rocky-8.7-x86_64-dvd1.iso
 
 5. Run VirtualBox and create new Virtual Machine (VMs)
 Specify Name, type (Linux), version (Red Hat 64) and follow to default paramenters
