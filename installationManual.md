@@ -1,4 +1,5 @@
 
+
 Open your virtal machine
 Click on *New* to create a new Virtual Machine
 
@@ -16,7 +17,7 @@ Insert the path to the location where you saved the downloaded ISO image
 
 Set Base memoery to 4096, and two processors
 
-<img src="https://user-images.githubusercontent.com/45208254/236521624-11ba41cb-35ef-41b1-9e55-b24a913630c7.png" width="500" />
+<img src="https://user-images.githubusercontent.com/45208254/236521624-11ba41cb-35ef-41b1-9e55-b24a913630c7.png<img src="
 
 Select created a Virtual Hard Disk Now
 
@@ -24,3 +25,11 @@ Select created a Virtual Hard Disk Now
 
 Then Click Finish.
 
+- Running the VM in VirtualBox
+With the installation complete we can now power up the virtual machine and run the guest OS in VirtualBox.
+
+1. Ensure the correct VM is selected and click on Start. This will boot the VM as if it were a real computer.
+
+  <img src="https://user-images.githubusercontent.com/45208254/236526492-c47de0be-0622-411c-9d8a-618a79bc0a43.png" width="300" />
+  
+ 
