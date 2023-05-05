@@ -4,7 +4,9 @@ Click on *New* to create a new Virtual Machine
 
 <img src="https://user-images.githubusercontent.com/45208254/236521093-7a3b6fcb-1265-4a15-afce-eda729f4c5f4.png" width="500" />
 
-Type the name of your new VM
+Type the name of your new VM.
+
+Virtualbox will automatically suggest the Type and Version of the OS used in the virtual machine by using the name.
 
 <img src="https://user-images.githubusercontent.com/45208254/236521379-4bb215f4-e933-482d-84d7-a8e2f27a4056.png" width="500" />
 
