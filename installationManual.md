@@ -19,3 +19,6 @@ Set Base memoery to 4096, and two processors
 Select created a Virtual Hard Disk Now
 
 <img src="https://user-images.githubusercontent.com/45208254/236521840-4140285a-e664-4853-8f00-1f13f8f34247.png" width="500" />
+
+Then Click Finish.
+
