@@ -13,6 +13,7 @@ https://rockylinux.org/download/ or https://download.rockylinux.org/pub/rocky/8/
 
 5. Run VirtualBox and create new Virtual Machine (VMs)
 Specify Name, type (Linux), version (Red Hat 64) and follow to default paramenters
+  installation manual: https://github.com/danymukesha/installationMinimalRocky8/blob/main/installationManual.md
 
 6. To assign Centos Image to newly created VM
 right click on VM
